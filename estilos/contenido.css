@@ -1,0 +1,37 @@
+@charset "utf-8";
+
+#FILMOGRAFÍA DESTACADA #contenido {
+      background-color: #fba5d0;
+      width: auto;
+      height: auto;
+      display: inline-block;
+      align-items: center;
+
+}
+
+#titulodesubpaginas {
+    color: #000000;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 34px;
+    text-align: center;
+    padding: 25px 100px;
+}
+
+#contenido img {
+  width: auto;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 573px;
+}
+
+#contenido p{
+    text-align: justify;
+    padding: 15px 35px;
+}
+
+#video-style{
+    margin: 0 auto;
+    display: block;
+}
